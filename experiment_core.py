@@ -1,4 +1,4 @@
-# 此文件更新于 2026-08-20 15:26（北京时间）
+
 """Leakage-safe data, split, metric and persistence utilities."""
 from __future__ import annotations
 
