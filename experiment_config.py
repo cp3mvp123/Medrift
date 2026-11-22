@@ -57,4 +57,3 @@ SENSITIVITY = {
     "lambda": [0.0, 0.1, 0.2, 0.3, 0.4],
 }
 
-UPDATED_AT = "2026-08-20 15:26 Asia/Shanghai"
