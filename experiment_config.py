@@ -1,4 +1,4 @@
-# 此文件更新于 2026-08-20 15:26（北京时间）
+
 """Frozen MedRIFT experiment configuration used by the manuscript."""
 
 from __future__ import annotations
