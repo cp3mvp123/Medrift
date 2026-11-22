@@ -1,4 +1,4 @@
-# 此文件更新于 2026-08-20 15:26（北京时间）
+
 """Run the core, graph, and parameter-sensitivity experiments in the paper."""
 
 from __future__ import annotations
