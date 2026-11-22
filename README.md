@@ -51,15 +51,7 @@ mi_mortality.csv
 support2_mortality.csv
 ```
 
-The private CVD cohort is not distributed. Its required columns are defined in
-`resources/manifests/cvd_manifest.json`. The public-data preprocessing script
-expects the following locally downloaded files:
 
-```text
-source_raw/nhanes/{DEMO_J,DIQ_J,BMX_J,CBC_J,BIOPRO_J,HDL_J,GHB_J}.xpt
-source_raw/mi/MI.data
-source_raw/support2/support2_raw.csv
-```
 
 Run:
 
