@@ -1,8 +1,0 @@
-# 此文件更新于 2026-08-20 15:26（北京时间）
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.6.1
-joblib==1.5.0
-xgboost==2.1.4
-torch==2.6.0
-
