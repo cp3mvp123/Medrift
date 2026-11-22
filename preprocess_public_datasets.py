@@ -1,4 +1,4 @@
-# 此文件更新于 2026-08-20 15:26（北京时间）
+
 """Build leakage-safe MedRIFT tables from the three downloaded public datasets.
 
 The generated CSV files intentionally retain cleaned, unstandardized values.
