@@ -1,4 +1,4 @@
-# 此文件更新于 2026-08-20 15:26（北京时间）
+
 """Run the locked MedRIFT + XGBoost protocol on four medical datasets.
 
 Keep this file beside the ``data`` folder and click Run in PyCharm. No command
